@@ -32,4 +32,21 @@
         <item>Cider</item>
         <item>Cold Drink</item>
     </string-array>
+
+    <string name="name">Name - </string>
+    <string name="email">Email - </string>
+    <string name="email_hint">eg.abc@gmail.com</string>
+    <string name="phone">Phone Number - </string>
+    <string name="phone_hint">09xxxxxx</string>
+    <string name="address">Address - </string>
+    <string name="address_hint">No.12/512</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="interest_category">Interest Category</string>
+    <string name="reading">Reading</string>
+    <string name="swimming">Swimming</string>
+    <string name="walking">Walking</string>
+    <string name="travelling">Travelling</string>
+    <string name="ok">OK</string>
 </resources>
