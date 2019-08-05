@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Padc_9</string>
+    <string name="action_settings">Settings</string>
+    <string name="test_activity">Test Activity</string>
+    <string name="lbl_guest_room_light">lbl_guest_room_light</string>
+    <string name="lbl_off">lbl_off</string>
+    <string name="lbl_on">lbl_on</string>
+    <string name="lbl_door_lock">lbl_door_lock</string>
+    <string name="door_lock_close">door_lock_close</string>
+    <string name="door_lock_open">door_lock_open</string>
+    <string name="lbl_brightness">lbl_brightness</string>
+    <string name="lbl_how_much_you_love_the_room">lbl_how_much_you_love_the_room</string>
+    <string name="lbl_shower_loading">lbl_shower_loading</string>
+    <string name="lbl_lunch_selection">lbl_lunch_selection</string>
+    <string name="lbl_additional_drinks">lbl_additional_drinks</string>
+    <string name="btn_click_to_assignment_layout">Click Assignment</string>
+    <string name="select_image">SELECT IMAGE</string>
+
+
+    <string-array name="lunch_selection">
+        <item>European Foods</item>
+        <item>Chinese Foods</item>
+        <item>Italian Foods</item>
+        <item>Mexican Foods</item>
+        <item>Myanmar Local Cuisine</item>
+    </string-array>
+
+    <string-array name="additional_drinks">
+        <item>Water</item>
+        <item>Wine</item>
+        <item>Whiskey</item>
+        <item>Cider</item>
+        <item>Cold Drink</item>
+    </string-array>
+</resources>
